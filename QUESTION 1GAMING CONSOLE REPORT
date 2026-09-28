@@ -1,0 +1,35 @@
+public class GamingConsoleReport {
+    
+    public static void main(String [] args){
+        
+        //Name of cities
+        int[CapeTOWN; PortElizabeth; Pretoria];
+        
+        
+        
+        //Number of sales
+        num [][] numbers = {
+        {1000, 2000, 3000};
+        {2000, 3000, 4000};
+        {1500, 1100, 1200};
+        
+        for (int row = 0 row < numbers[row].length;row ++){
+            
+        for (int col =0; col < numbers[row].length; col ++){
+            
+    System.out.print(numbers[row][col]+ " ");
+    
+         int sum = 0;
+         for (int row = 0; row < numbers.length;row ++){
+          
+         for (int col = 0; < numbers [row].length; col++)
+         
+         sum + =numbers [row][col];
+         
+         System.out.println("Total: "+sum);
+         
+     
+        
+      
+    }
+}
